@@ -10,7 +10,7 @@ const tokenForUser=(user)=>{
 
 exports.signin = (req, res, next)=>{
     res.send({token:tokenForUser(req.user)});
-};]
+};
 
 
 exports.signup = (req, res, next)=>{
