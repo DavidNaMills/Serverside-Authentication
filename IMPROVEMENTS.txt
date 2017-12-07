@@ -1,0 +1,13 @@
+Plans for improvements:
+---------------------------------------
+
+breakout all error messages into a seperate file
+breakout starting port into separate file
+
+include option to choose which strategy:
+    google strategy
+    jwt strategy
+    twitter strategy
+
+proper testing
+more comments
